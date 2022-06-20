@@ -1,6 +1,8 @@
 ![Header](https://github.com/geyotokar/geyotokar/blob/main/turtles.jpg)
 
-## 👋 Hi, I’m Angelina Tokar ![](https://komarev.comghpvc/?username=geyotokar)
+## 👋 Hi, I’m Angelina Tokar 
+
+![](https://komarev.com/ghpvc/?username=geyotokar)
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
