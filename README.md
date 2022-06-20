@@ -1,8 +1,4 @@
-![Header](https://github.com/geyotokar/geyotokar/blob/main/turtles2.jpg)
-
 ## 👋 Hi, I’m Angelina 
-
-![](https://komarev.com/ghpvc/?username=geyotokar)
 
 ### I'm looking for my first job frontend developer. <br>
 
@@ -32,6 +28,6 @@ Now I live in **Moscow**, came from Khabarovsk. Before lived in St.Petersburg an
 ![adaptive](https://img.shields.io/badge/-adaptive-0ABF53?style=for-the-badge)
 
 ### Connect with me: 
-![wa](https://img.shields.io/badge/-25D366?style=flat&logo=whatsapp) +7 914 206 1056 <br>
-![tg](https://img.shields.io/badge/-26A5E4?style=flat&logo=telegram) [@patriseyshen](https://t.me/patriseyshen) <br>
-![gmail](https://img.shields.io/badge/-EA4335?style=flat&logo=gmail) patriseyshen@gmail.com <br>
+<img width="17px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg"/> +7 914 206 1056 <br>
+<img width="17px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"/> [@patriseyshen](https://t.me/patriseyshen) <br>
+<img width="17px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/> patriseyshen@gmail.com <br>
