@@ -28,6 +28,5 @@ Now I live in **Moscow**, came from Khabarovsk. Before lived in St.Petersburg an
 ![adaptive](https://img.shields.io/badge/-adaptive-0ABF53?style=for-the-badge)
 
 ### Connect with me: 
-<img width="17px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg"/> +7 914 206 1056 <br>
 <img width="17px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"/> [@patriseyshen](https://t.me/patriseyshen) <br>
 <img width="17px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/> patriseyshen@gmail.com <br>
